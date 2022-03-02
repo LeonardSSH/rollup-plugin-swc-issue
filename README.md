@@ -1,1 +1,1 @@
-# rollup-plugin-swc-issue
+# rollup-plugin-swc-issue (fixed)
